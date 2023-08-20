@@ -1,0 +1,141 @@
+/*font-family: 'Lora', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;*/
+/*--- HEADINGS ---*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 24px;
+    font: weight 400;
+    color: #242424;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
+h2 {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+}
+
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+h5,
+h6 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    line-height: 1.25;
+    letter-spacing: normal;
+}
+
+p {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    line-height: 1.25;
+    letter-spacing: normal;
+}
+
+body {
+    margin: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.the-vriksha-services-to-our-customers {
+    position: absolute;
+    top: auto;
+    bottom: auto;
+    left: 1px;
+    ;
+    width: 100%;
+    background-color: #ffffff;
+    height: auto;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+}
+
+#the-vriksha-services {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-evenly;
+    overflow: hidden;
+}
+
+#the-vriksha-services a {
+    color: #ff8b00;
+    text-decoration: none;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+#the-vriksha-services a:hover {
+    color: #737373;
+}
+
+#the-vriksha-services a:active {
+    color: #ff8b00
+}
+
+.welcome-to-the-vriksha-agency {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.website-development-services {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 10vh;
+}
+
+.committed-to-delivering-the-success-to-food-truck-business-owners {
+    background-color: #00cbb1;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid #00cbb1;
+}
+
+.committed-to-delivering-the-success-to-food-truck-business-owners:hover {
+    background-color: #ffffff;
+    color: #00cbb1;
+    box-shadow: 0 1px 1px 0 #737373, 0 2px 2px 0 #737373;
+}
+
+.committed-to-delivering-the-success-to-food-truck-business-owners a {
+    color: #ffffff;
+}
+
+.committed-to-delivering-the-success-to-food-truck-business-owners a {
+    color: #00cbb1;
+}
