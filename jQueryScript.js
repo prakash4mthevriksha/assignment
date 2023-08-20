@@ -31,7 +31,7 @@ $(document).ready(function () {
   });
 });
 $(document).ready(function () {
-  $(".gain-social-media-followers").click(function () {
+  $(".grow-social-media-followers").click(function () {
     var url = "https://www.thevriksha.in/social-media-marketing-for-food-truck-business/";
     window.open(url, '_self');
   });
