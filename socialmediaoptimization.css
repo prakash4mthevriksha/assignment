@@ -110,7 +110,7 @@ body {
     height: 10vh;
 }
 
-.gain-social-media-followers {
+.grow-social-media-followers {
     background-color: #00cbb1;
     border: none;
     color: white;
@@ -126,16 +126,16 @@ body {
     border: 2px solid #00cbb1;
 }
 
-.gain-social-media-followers:hover {
+.grow-social-media-followers:hover {
     background-color: #ffffff;
     color: #00cbb1;
     box-shadow: 0 1px 1px 0 #737373, 0 2px 2px 0 #737373;
 }
 
-.gain-social-media-followers a {
+.grow-social-media-followers a {
     color: #ffffff;
 }
 
-.gain-social-media-followers a {
+.grow-social-media-followers a {
     color: #00cbb1;
 }
